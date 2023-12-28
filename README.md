@@ -1,3 +1,6 @@
 # Basic Program Practice
+
 ## Project Description
-This Java program was made for my first practice in object-oriented programming class.
+This program was made for adding two user inputs and print it.
+
+## Project Purpose
