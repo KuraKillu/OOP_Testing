@@ -1,6 +1,7 @@
 # Basic Program Practice
 
 ## Project Description
-This program was made for adding two user inputs and print it.
+Program for adding two user inputs and print it.
 
 ## Project Purpose
+The project's purpose is to provide first practice in Object-Oriented Programming class.
